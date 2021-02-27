@@ -1,0 +1,24 @@
+{
+  "name": "urlcheck",
+  "version": "1.0.0",
+  "description": "urlcheck is a website scanning tool, similar to urlscan.io but worse. The goal is to scan a website very quickly, save a screenshot and check for login forms.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frohrer/urlcheck.git"
+  },
+  "keywords": [
+    "scan",
+    "url",
+    "http"
+  ],
+  "author": "Frederic Rohrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frohrer/urlcheck/issues"
+  },
+  "homepage": "https://github.com/Frohrer/urlcheck#readme"
+}
